@@ -6,6 +6,7 @@
 # List of extensions (if any):
 ######################################################################
 
+import run_journal
 import json
 from notopenai import NotOpenAI
 import os

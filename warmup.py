@@ -3,6 +3,7 @@ A warmup exercise (Milestone 0) to ensure that the needed story data can be brou
 into the program and navigated. DON'T FORGET TO UPLOAD THIS!
 """
 
+import run_journal
 import json
 
 
